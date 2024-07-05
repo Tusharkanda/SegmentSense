@@ -73,3 +73,8 @@ SegmentSense demonstrates a comprehensive approach to customer segmentation in t
 - Machine Learning Model Evaluation and Comparison
 - Advanced Python Programming
 - Use of Machine Learning Libraries (Scikit-learn, TensorFlow/Keras)
+
+
+This Project was Made by :
+Tushar Kanda | 221AI042 | tusharkanda.221ai042@nitk.edu.in
+Priyanshu Maniyar | 221AI023 | priyanshumaniyar.221ai023@nitk.edu.in
