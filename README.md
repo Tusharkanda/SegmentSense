@@ -78,3 +78,5 @@ SegmentSense demonstrates a comprehensive approach to customer segmentation in t
 This Project was Made by :
 Tushar Kanda | 221AI042 | tusharkanda.221ai042@nitk.edu.in
 Priyanshu Maniyar | 221AI023 | priyanshumaniyar.221ai023@nitk.edu.in
+Sachin Choudhary | 221AI034 | sachinchoudhary.221ai034@nitk.edu.in
+
